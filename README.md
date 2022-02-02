@@ -1,2 +1,2 @@
 # EV-Acceleration-Simulation
-This project shows the Acceleration Simulation of the flagship 'General Motors Electric Vehicle 1'
+This project shows the Acceleration Simulation of the flagship 'General Motors Electric Vehicle 1'. In this project, we have passed all the known performance variables and processing the data to get the instantaneous velocity in Km/h. Using the computed data, we use the in-built MATLAB plotting commands to visualize the acceleration on General Motor Electric vehicle 1 in a graphical format
